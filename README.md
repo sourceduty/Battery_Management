@@ -13,6 +13,14 @@ This GPT uses a step-by-step, question-based process to break down complex tasks
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Electronic Simulator](https://github.com/sourceduty/Electronic_Simulator)
+<br>
+[Raspberry Pi](https://github.com/sourceduty/Raspberry_Pi)
+<br>
+[Parts Project](https://github.com/sourceduty/Parts_Project)
+<br>
+[Thermotronics](https://github.com/sourceduty/Thermotronics)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
